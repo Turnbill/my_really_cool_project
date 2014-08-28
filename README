@@ -1,5 +1,6 @@
 This project is seriously awesome, you guys.
 
+<<<<<<< HEAD
 This project will help Treehouse students learn about working with Git repositories.
 
 
@@ -9,3 +10,6 @@ This project will help Treehouse students learn about working with Git repositor
 
 
 POEWP
+=======
+This project will help Treehouse students learn about working with Git repositoriessss.
+>>>>>>> foo_feature
